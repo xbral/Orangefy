@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Details
+
+Test project, following the Rockeseat tutorial "Recriando a interface do Pipefy".
+
 ## Available Scripts
 
 In the project directory, you can run:
